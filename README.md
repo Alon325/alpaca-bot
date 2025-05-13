@@ -1,2 +1,3 @@
-# alpaca-bot
-🚀 Automated stock trading bot using Alpaca API and Telegram alerts
+# Alpaca Bot  
+🚀 **Automated Stock Trading Bot**  
+Seamlessly integrates with **Alpaca API** for efficient trading and **Telegram alerts** for real-time updates.
