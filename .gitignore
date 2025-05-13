@@ -50,7 +50,7 @@ cover/
 *.mo
 *.pot
 
-# Django/Flask/Scrapy
+# Framework-related (Django, Flask, Scrapy)
 *.log
 local_settings.py
 db.sqlite3*
@@ -90,26 +90,25 @@ pdm.lock
 .pdm-build/
 __pypackages__/
 
-# Task Queues
+# Task Queues (Celery)
 celerybeat-schedule
 celerybeat.pid
 
 # SageMath
 *.sage.py
 
-# IDE & Debugging
+# Development tools & static analysis
 .spyderproject
 .spyproject
 .ropeproject
 .mypy_cache/
 .dmypy.json
-dmypy.json
 .pyre/
 .pytype/
 cython_debug/
 .ruff_cache/
 
-# PyCharm (consider adding to global gitignore)
+# PyCharm (recommended to add globally instead of per project)
 #.idea/
 
 # PyPI configuration
